@@ -1,6 +1,3 @@
-//Bora Erol Ozkan
-//2000004345
-
 #include <iostream>
 
 #define ARRAY_SIZE 9
