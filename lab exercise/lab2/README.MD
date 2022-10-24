@@ -29,7 +29,7 @@
   When the tip rate is not specified, it will be accepted as 10 percent.
   Considering the sample output of the program given below write overloaded functions that are necessary.
   
-  Also this program has to include
+  Also this program has to include <br/>
    • Function declaration and definition <br/>
    • Function calling <br/>
    • Overloaded functions <br/>
