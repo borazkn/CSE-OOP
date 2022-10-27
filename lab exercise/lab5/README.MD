@@ -18,12 +18,13 @@
   information. If there is no product, nothing can be updated or displayed. <br/>
   
    <h2>Product</h2>
-   
+     ```
      productCode : string
      brand : string
      price : double
      name : string
      stock : int
+     ```
      
      Product()
      Product(string string double string int)
@@ -37,3 +38,5 @@
      setName(string)
      getStock() : int
      setStock(int)
+
+   
