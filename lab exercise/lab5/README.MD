@@ -18,13 +18,13 @@
   information. If there is no product, nothing can be updated or displayed. <br/>
   
    <h2>Product</h2>
-     ```
+     
      productCode : string
      brand : string
      price : double
      name : string
      stock : int
-     ```
+     
      
      Product()
      Product(string string double string int)
@@ -39,9 +39,10 @@
      getStock() : int
      setStock(int)
      display()
+     
    
    Sample Output:
-    ```
+    
     *******************************
     1.Enter product information
     2.Update stock
@@ -50,7 +51,7 @@
     5.Display all info
     6.Exit
     *******************************
-    ```
+    
     
     *******************************
     1.Enter product information
