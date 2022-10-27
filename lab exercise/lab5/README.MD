@@ -41,10 +41,29 @@
      display()
    
    Sample Output:
-   
+    ```
+    *******************************
     1.Enter product information
     2.Update stock
     3.Uptadde price
     4.Display product code
     5.Display all info
     6.Exit
+    *******************************
+    ```
+    
+    *******************************
+    1.Enter product information
+    2.Update stock
+    3.Uptadde price
+    4.Display product code
+    5.Display all info
+    6.Exit
+    *******************************
+    --->1
+    Enter product code:56474
+    Brand:A
+    Name:Dress
+    Price:346
+    Stock:5
+    *******************************
