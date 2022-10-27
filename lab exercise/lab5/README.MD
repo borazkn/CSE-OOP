@@ -38,5 +38,13 @@
      setName(string)
      getStock() : int
      setStock(int)
-
+     display()
    
+   Sample Output:
+   
+    1.Enter product information
+    2.Update stock
+    3.Uptadde price
+    4.Display product code
+    5.Display all info
+    6.Exit
