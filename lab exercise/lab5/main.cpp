@@ -54,11 +54,7 @@ int main()
                 cout << "Product code: " << product.getProductCode() << endl;
                 break;
             case 5:
-                cout << "Product Code: " << product.getProductCode() << endl;
-                cout << "Brand: " << product.getBrand() << endl;
-                cout << "Price: " << product.getPrice() << endl;
-                cout << "Name: " << product.getName() << endl;
-                cout << "Stock: " << product.getStock() << endl;
+                product.display();
                 break;
             case 6:
                 exit(0);
